@@ -1,0 +1,7 @@
+length: 210 bytes
+path: C:\Users\MIGUEL\eclipse-workspace\Act_FileHandling\..\Act_FileHandling\src\FileHandlingPackage\SampleText.txt
+words: 42
+
+length: 260 bytes
+path: C:\Users\MIGUEL\eclipse-workspace\Act_FileHandling\..\Act_FileHandling\src\FileHandlingPackage\SampleText.txt
+words: 52
